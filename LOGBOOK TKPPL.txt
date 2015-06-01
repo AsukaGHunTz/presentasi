@@ -1,0 +1,62 @@
+SPRINT 1
+---------------------------------------------------------------------
+=====
+DAY 1
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Awal untuk Penjelasan secara Umum : Apa itu Dota2?
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Awal untuk Warding : Penjelasan 
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Awal untuk Hero Guide Sniper : Penjelasan Singkat khususnya Tipe.
+
+Ada masalah dalam pengerjaan tugas?
+- Masih belum terbiasa dengan Syntax Jade dan Github terutama Push dan Pull.
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+-
+Apa yang dikerjakan Hari ini?   
+- Pengembangan untuk Edit Fungsionalitas Bespoke
+
+Ada masalah dalam pengerjaan tugas?
+- Belum terbiasa dengan GitHub khususnya Push.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Edit Fungsionalitas Bespoke (William Limianto)
+2. PUSH : Pengembangan Awal Warding : Penjelasan (Johanes Novenus Demak)
+3. PUSH : Pengembangan Awal Penjelasan secara Umum : Apa itu Dota2? (Javentira Lienata)
+4. PUSH : Revisi Judul dan Menu dari Dota menjadi Dota2 (Javentira Lienata)
+5. PUSH : Pengembangan Awal Hero Guide Sniper : Penjelasan Singkat (Kevin Griffinsu) 
+6. PUSH : Laporan Burndown Chart, Log Book Harian. (William Limianto)
+
+
