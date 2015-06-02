@@ -1,3 +1,6 @@
+HINT : Gunakann Ctrl+F dan Ketik "Day" atau "Progress Harian" untuk memudahkan navigasi.
+
+
 SPRINT 1
 ---------------------------------------------------------------------
 =====
@@ -21,7 +24,7 @@ Johanes Novenus Demak :
 Kemarin Mengerjakan Apa ?   
 -
 Apa yang dikerjakan Hari ini?   
-- Pengembangan Awal untuk Warding : Penjelasan 
+- Pengembangan Awal untuk Warding : Penjelasan. 
 
 Ada masalah dalam pengerjaan tugas?
 - Tidak ada.
@@ -43,7 +46,7 @@ William Limianto :
 Kemarin Mengerjakan Apa ?   
 -
 Apa yang dikerjakan Hari ini?   
-- Pengembangan untuk Edit Fungsionalitas Bespoke
+- Pengembangan untuk Edit Fungsionalitas Bespoke hingga selesai.
 
 Ada masalah dalam pengerjaan tugas?
 - Belum terbiasa dengan GitHub khususnya Push.
@@ -52,11 +55,73 @@ Ada masalah dalam pengerjaan tugas?
 PROGRESS HARIAN 
 ===============
 
-1. PUSH : Edit Fungsionalitas Bespoke (William Limianto)
-2. PUSH : Pengembangan Awal Warding : Penjelasan (Johanes Novenus Demak)
+1. PUSH : Edit Fungsionalitas Bespoke hingga selesai. (William Limianto)
+2. PUSH : Pengembangan Awal Warding : Penjelasan. (Johanes Novenus Demak)
 3. PUSH : Pengembangan Awal Penjelasan secara Umum : Apa itu Dota2? (Javentira Lienata)
 4. PUSH : Revisi Judul dan Menu dari Dota menjadi Dota2 (Javentira Lienata)
-5. PUSH : Pengembangan Awal Hero Guide Sniper : Penjelasan Singkat (Kevin Griffinsu) 
+5. PUSH : Pengembangan Awal Hero Guide Sniper : Penjelasan Singkat. (Kevin Griffinsu) 
 6. PUSH : Laporan Burndown Chart, Log Book Harian. (William Limianto)
+
+
+
+=====
+DAY 2
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Awal untuk Penjelasan secara Umum : Apa itu Dota2?
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Penjelasan secara Umum : Apa itu Dota2? hingga selesai.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Awal untuk Warding : Penjelasan.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Warding : Penjelasan.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Awal untuk Hero Guide Sniper : Penjelasan Singkat khususnya Tipe.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Hero Guide Sniper : Penjelasan Singkat khususnya Skills.
+
+Ada masalah dalam pengerjaan tugas?
+- Lancar-lancar saja.
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan untuk Edit Fungsionalitas Bespoke hingga selesai.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan untuk Edit Tampilan CSS Bespoke hingga selesai.
+
+Ada masalah dalam pengerjaan tugas?
+- Aman terkendali.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Edit Tampilan CSS Bespoke hingga selesai. (William Limianto)
+2. PUSH : Revisi Masalah Gambar Halaman Pertama Penjelasan secara Umum : Apa itu Dota2? (Javentira Lienata)
+2. PUSH : Pengembangan Lanjutan Warding : Penjelasan. (Johanes Novenus Demak)
+4. PUSH : Pengembangan Lanjutan Hero Guide Sniper : Penjelasan Singkat. (Kevin Griffinsu)
+5. PUSH : Push ulang untuk Pengembangan Lanjutan Warding : Penjelasan karena push sebelumnya tidak sempurna. (Johanes Novenus Demak) 
+6  PUSH : Pengembangan Lanjutan Penjelasan secara Umum : Apa itu Dota2? hingga selesai. (Javentira Lienata)
+7. PUSH : Laporan Burndown Chart, Log Book Hari ke 2. (William Limianto)
 
 
