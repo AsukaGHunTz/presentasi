@@ -118,10 +118,69 @@ PROGRESS HARIAN
 
 1. PUSH : Edit Tampilan CSS Bespoke hingga selesai. (William Limianto)
 2. PUSH : Revisi Masalah Gambar Halaman Pertama Penjelasan secara Umum : Apa itu Dota2? (Javentira Lienata)
-2. PUSH : Pengembangan Lanjutan Warding : Penjelasan. (Johanes Novenus Demak)
+3. PUSH : Pengembangan Lanjutan Warding : Penjelasan. (Johanes Novenus Demak)
 4. PUSH : Pengembangan Lanjutan Hero Guide Sniper : Penjelasan Singkat. (Kevin Griffinsu)
 5. PUSH : Push ulang untuk Pengembangan Lanjutan Warding : Penjelasan karena push sebelumnya tidak sempurna. (Johanes Novenus Demak) 
 6  PUSH : Pengembangan Lanjutan Penjelasan secara Umum : Apa itu Dota2? hingga selesai. (Javentira Lienata)
 7. PUSH : Laporan Burndown Chart, Log Book Hari ke 2. (William Limianto)
+
+
+
+=====
+DAY 3
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Lanjutan untuk Penjelasan secara Umum : Apa itu Dota2? hingga selesai.
+Apa yang dikerjakan Hari ini?
+- Pengembangan untuk Penjelasan secara Umum : Elemen pada Dota (Game Mode, Aktor, Item) hingga selesai.
+Ada masalah dalam pengerjaan tugas?
+- Tidak.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Lanjutan untuk Warding : Penjelasan.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Warding : Penjelasan hingga selesai.
+
+Ada masalah dalam pengerjaan tugas?
+- No problem.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Lanjutan untuk Hero Guide Sniper : Penjelasan Singkat khususnya Skills.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Hero Guide Sniper : Penjelasan Singkat hingga selesai.
+
+Ada masalah dalam pengerjaan tugas?
+- Aman-aman saja.
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan untuk Edit Tampilan CSS Bespoke hingga selesai.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan untuk Role : Carry hingga selesai.
+
+Ada masalah dalam pengerjaan tugas?
+- Aman terkendali.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Pengembangan Lanjutan Hero Guide Sniper : Penjelasan Singkat hingga selesai. (Kevin Griffinsu)
+2. PUSH : Pengembangan Lanjutan Warding : Penjelasan hingga selesai. (Johanes Novenus Demak)
+3. PUSH : Pengembangan Penjelasan secara Umum : Elemen pada Dota2 (Game Mode, Aktor, Item) hingga selesai. (Javentira Lienata)
+4. PUSH : Pengembangan Role : Carry hingga selesai. (William Limianto)
+5. PUSH : Laporan Burndown Chart, Log Book Hari ke 3. (William Limianto)
 
 
