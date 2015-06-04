@@ -184,4 +184,68 @@ PROGRESS HARIAN
 5. PUSH : Laporan Burndown Chart, Log Book Hari ke 3. (William Limianto)
 
 
+---------------------------------------------------------------------
+
+SPRINT 2
+---------------------------------------------------------------------
+=====
+DAY 1
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan untuk Penjelasan secara Umum : Elemen pada Dota (Game Mode, Aktor, Item) hingga selesai.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Penjelasan : Elemen pada Dota Khususnya Game Mode.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Lanjutan untuk Warding : Penjelasan hingga selesai.
+Apa yang dikerjakan Hari ini?   
+- Penjelasan Secara umum manfaat Warding. 
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+-Pengembangan Lanjutan untuk Hero Guide Sniper : Penjelasan Singkat hingga selesai.
+
+Apa yang dikerjakan Hari ini?   
+-Pengembangan Item Build Untuk Sniper (khususnya Item Early)
+
+Ada masalah dalam pengerjaan tugas?
+-Tidak Ada. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+-Pengembangan untuk Role : Carry hingga selesai.
+
+Apa yang dikerjakan Hari ini?   
+-Pengembangan awal untuk Role : Lane Support
+
+Ada masalah dalam pengerjaan tugas?
+- Masih aman.
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Revisi mengenai Penjelasan secara Umum : Elemen pada Dota (Game Mode, Aktor, Item) pada bagian Font dan Tampilan. (Javentira Lienata)
+2. PUSH : Pengembangan Lanjutan untuk Penjelasan : Elemen pada Dota Khususnya Game Mode. (Javentira Lienata)
+3. PUSH : Penjelasan Secara umum manfaat Warding. (Johanes Novenus Demak)
+4. PUSH : Revisi mengenai Penjelasan Secara umum manfaat Warding karena yang terpush cuma dibagian htmlnya saja. (Johanes Novenus Demak)
+5. PUSH : Pengembangan awal untuk Role : Lane Support (William Limianto)
+6. PUSH : Penambahan Item Early Build Untuk Sniper (Kevin Griffinsu)
+7. PUSH : Laporan Burndown Chart, Log Book Hari ke 4 (Johanes Novenus Demak)
 
