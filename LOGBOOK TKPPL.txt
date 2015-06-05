@@ -248,3 +248,62 @@ PROGRESS HARIAN
 6. PUSH : Penambahan Item Early Build Untuk Sniper (Kevin Griffinsu)
 7. PUSH : Laporan Burndown Chart, Log Book Hari ke 4 (Johanes Novenus Demak)
 
+=====
+DAY 2
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Lanjutan untuk Penjelasan : Elemen pada Dota Khususnya Game Mode.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Penjelasan : Elemen pada Dota Khususnya Aktor.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Penjelasan Secara umum manfaat Warding.
+Apa yang dikerjakan Hari ini?   
+- Lanjutan Pengembangan mengenai manfaat Warding.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+-Pengembangan Item Build Untuk Sniper (khususnya Item Early)
+
+Apa yang dikerjakan Hari ini?   
+-Pengembangan Item Build Untuk Sniper (khususnya Item Mid-Game)
+
+Ada masalah dalam pengerjaan tugas?
+-Tidak Ada. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+-Pengembangan awal untuk Role : Lane Support
+
+Apa yang dikerjakan Hari ini?   
+-Pengembangan awal untuk Role : Disabler
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Pengembangan Item Build untuk Sniper khususnya Item Mid-Game. (Kevin Griffinsu)
+2. PUSH : Lanjutan Pengembangan mengenai manfaat warding. (Johanes Novenus Demak)
+3. PUSH : Pengembangan Lanjutan untuk Penjelasan : Elemen pada Dota Khususnya Aktor. (Javentira Lienata)
+4. PUSH : Pengembangan awal untuk Role : Disabler. (William Limianto)
+5. PUSH : Laporan Burndown Chart, Log Book Hari ke 5 (Johanes Novenus Demak)
