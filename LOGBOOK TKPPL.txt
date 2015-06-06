@@ -307,3 +307,65 @@ PROGRESS HARIAN
 3. PUSH : Pengembangan Lanjutan untuk Penjelasan : Elemen pada Dota Khususnya Aktor. (Javentira Lienata)
 4. PUSH : Pengembangan awal untuk Role : Disabler. (William Limianto)
 5. PUSH : Laporan Burndown Chart, Log Book Hari ke 5 (Johanes Novenus Demak)
+
+=====
+DAY 3
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Lanjutan untuk Penjelasan : Elemen pada Dota Khususnya Aktor.
+Apa yang dikerjakan Hari ini?   
+- Penjelasan tuntas mengenai Penjelasan secara umum mengenai Elemen pada Dota2
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Lanjutan Pengembangan mengenai manfaat Warding.
+Apa yang dikerjakan Hari ini?   
+- Penjelasan tuntas mengenai Manfaat Warding.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+-Pengembangan Item Build Untuk Sniper (khususnya Item Mid-Game)
+
+Apa yang dikerjakan Hari ini?   
+-Penjelasan tuntas mengenai Hero Guide Sniper : Item Build
+
+Ada masalah dalam pengerjaan tugas?
+-Tidak Ada. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+-Pengembangan awal untuk Role : Disabler
+
+Apa yang dikerjakan Hari ini?   
+-Penjelasan tuntas mengenai Role : Lane Support dan Disabler
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Translating dan Rewriting untuk Penjelasan tuntas mengenai penjelasan secara umum Elemen pada Dota2.(Javentira Lienata)
+2. PUSH : Penambahan Late Item untuk Hero Guide Sniper:Item Build.(Kevin Griffinsu)
+3. PUSH : Penambahan Contoh-contoh hero untuk penjelasan tuntas mengenai Role Lane support dan Disabler .(William Limianto)
+4. PUSH : Pengembangan akhir mengenai Maanfaat Warding.(Johanes Novenus Demak)
+5. PUSH : Revisi masalah gambar tidak muncul di subtopik penjelasan.(Kevin Griffinsu)
+6. PUSH : Revisi Gambar pada bagian Warding.(Johanes Novenus Demak)
+7. PUSH : Laporan Burndown Chart, Log Book Hari ke 5.(Johanes Novenus Demak)
