@@ -368,4 +368,69 @@ PROGRESS HARIAN
 4. PUSH : Pengembangan akhir mengenai Maanfaat Warding.(Johanes Novenus Demak)
 5. PUSH : Revisi masalah gambar tidak muncul di subtopik penjelasan.(Kevin Griffinsu)
 6. PUSH : Revisi Gambar pada bagian Warding.(Johanes Novenus Demak)
-7. PUSH : Laporan Burndown Chart, Log Book Hari ke 5.(Johanes Novenus Demak)
+7. PUSH : Laporan Burndown Chart, Log Book Hari ke 6.(Johanes Novenus Demak)
+
+
+---------------------------------------------------------------------
+
+SPRINT 3
+---------------------------------------------------------------------
+=====
+DAY 1
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Penjelasan tuntas mengenai Penjelasan secara umum mengenai Elemen pada Dota2.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan awal untuk Penjelasan secara umum mengenai Effect Item pada Dota2.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Penjelasan tuntas mengenai Manfaat Warding.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan awal untuk Warding : Pembagian Wards.
+
+Ada masalah dalam pengerjaan tugas?
+- Lancar.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Penjelasan tuntas mengenai Hero Guide Sniper : Item Build.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan awal untuk Hero Guide Sniper : Strategy khususnya Early Game.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak Ada. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Penjelasan tuntas mengenai Role : Lane Support dan Disabler.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Awal untuk Role : Initiator.
+
+Ada masalah dalam pengerjaan tugas?
+- No Problem.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Pengembangan Hero Guide Sniper : Strategy hingga Early Game. (Kevin Griffinsu)
+2. PUSH : Pengembangan Penjelasan secara Umum : Effect Items Dota2. (Javentira Lienata)
+3. PUSH : Pengembangan Role : Initiator. (William Limianto)
+4. PUSH : Pengembangan Warding : Pembagian Wards. (Johanes Novenus Demak)
+5. PUSH : Laporan Burndown Chart, Log Book Hari ke 7. (Kevin Griffinsu)
