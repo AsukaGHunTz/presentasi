@@ -434,3 +434,63 @@ PROGRESS HARIAN
 3. PUSH : Pengembangan Role : Initiator. (William Limianto)
 4. PUSH : Pengembangan Warding : Pembagian Wards. (Johanes Novenus Demak)
 5. PUSH : Laporan Burndown Chart, Log Book Hari ke 7. (Kevin Griffinsu)
+
+=====
+DAY 2
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan awal untuk Penjelasan secara umum mengenai Effect Item pada Dota2.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Penjelasan secara Umum : Translate penjelasan item.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan awal untuk Warding : Pembagian Wards.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan awal untuk Warding : Lanjutan pembagian Wards.
+
+Ada masalah dalam pengerjaan tugas?
+- Lancar.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan awal untuk Hero Guide Sniper : Strategy khususnya Early Game.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan awal untuk Hero Guide Sniper : Strategy khususnya Mid Game.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak Ada. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Awal untuk Role : Initiator.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Awal untuk Role : Jungler.
+
+Ada masalah dalam pengerjaan tugas?
+- No Problem.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Tambahan Penjelasan Inti untuk Role : Jungler (William Limianto)
+2. PUSH : Pengembangan Warding : Lanjutan pembagian Wards. (Johanes Novenus Demak)
+3. PUSH : Pengembangan Penjelasan secara Umum : Translate penjelasan item. (Javentira Lienata)
+4. PUSH : Pengembangan Hero Guide Sniper : Penambahan Strategy Mid Game untuk Sniper. (Kevin Griffinsu)
+5. PUSH : Laporan Burndown Chart, Log Book Hari ke 8. (Kevin Griffinsu)
