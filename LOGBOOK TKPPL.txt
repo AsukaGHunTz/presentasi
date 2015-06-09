@@ -494,3 +494,64 @@ PROGRESS HARIAN
 3. PUSH : Pengembangan Penjelasan secara Umum : Translate penjelasan item. (Javentira Lienata)
 4. PUSH : Pengembangan Hero Guide Sniper : Penambahan Strategy Mid Game untuk Sniper. (Kevin Griffinsu)
 5. PUSH : Laporan Burndown Chart, Log Book Hari ke 8. (Kevin Griffinsu)
+
+=====
+DAY 3
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Penjelasan secara Umum : Translate penjelasan item.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Penjelasan secara Umum : Update penjelasan item.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan awal untuk Warding : Lanjutan pembagian Wards.
+Apa yang dikerjakan Hari ini?   
+- Penjelasan Perbedaan Antara Observer Ward dan Sentry Ward.
+
+Ada masalah dalam pengerjaan tugas?
+- No problem.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan awal untuk Hero Guide Sniper : Strategy khususnya Mid Game.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Hero Guide Sniper : Penambahan Strategy Late Game untuk Sniper.
+
+Ada masalah dalam pengerjaan tugas?
+- Lancar. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Awal untuk Role : Jungler.
+
+Apa yang dikerjakan Hari ini?   
+- Tambahan Contoh Hero untuk Role : Initiator dan Role : Jungler.
+
+Ada masalah dalam pengerjaan tugas?
+- No Problem.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Pengembangan Penjelasan secara Umum : Update penjelasan item. (Javentira Lienata)
+2. PUSH : Penjelasan Perbedaan Antara Observer Ward dan Sentry Ward. (Johanes Novenus Demak)
+3. PUSH : Pengembangan Hero Guide Sniper : Penambahan Strategy Late Game untuk Sniper. (Kevin Griffinsu)
+4. PUSH : Tambahan Contoh Hero untuk Role : Initiator dan Role : Jungler (William Limianto)
+5. PUSH : Laporan Burndown Chart, Log Book Hari ke 9. (Kevin Griffinsu)
