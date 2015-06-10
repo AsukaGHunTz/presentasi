@@ -555,3 +555,68 @@ PROGRESS HARIAN
 3. PUSH : Pengembangan Hero Guide Sniper : Penambahan Strategy Late Game untuk Sniper. (Kevin Griffinsu)
 4. PUSH : Tambahan Contoh Hero untuk Role : Initiator dan Role : Jungler (William Limianto)
 5. PUSH : Laporan Burndown Chart, Log Book Hari ke 9. (Kevin Griffinsu)
+
+---------------------------------------------------------------------
+
+SPRINT 4
+---------------------------------------------------------------------
+=====
+DAY 3
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Penjelasan secara Umum : Update penjelasan item.
+
+Apa yang dikerjakan Hari ini?   
+- Mulai mengerjakan penjelasan aturan bermain dota 2.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Penjelasan Perbedaan Antara Observer Ward dan Sentry Ward.
+Apa yang dikerjakan Hari ini?   
+- Penjelasan awal sebelum masuk ke Strategi warding 
+
+Ada masalah dalam pengerjaan tugas?
+- No problem.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Pengembangan Hero Guide Sniper : Penambahan Strategy Late Game untuk Sniper.
+
+Apa yang dikerjakan Hari ini?   
+- Penambahan Best Friends : Warders
+
+Ada masalah dalam pengerjaan tugas?
+- Lancar. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Tambahan Contoh Hero untuk Role : Initiator dan Role : Jungler.
+
+Apa yang dikerjakan Hari ini?   
+- Tambah Penjelasan Inti dan Contoh Hero untuk Role : Support. 
+
+Ada masalah dalam pengerjaan tugas?
+- No Problem.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Penjelasan aturan bermain dota 2. (Javentira Lienata)
+2. PUSH : Tambah Penjelasan Inti dan Contoh Hero untuk Role : Support.  (William Limianto)
+3. PUSH : Penambahan Best Friends : Warders  (Kevin Griffinsu)
+4. PUSH : Penjelasan awal sebelum masuk ke Strategi warding  (Johanes Novenus Demak)
+5. PUSH : Laporan Burndown Chart, Log Book Hari ke 10. (Javentira Lienata)
