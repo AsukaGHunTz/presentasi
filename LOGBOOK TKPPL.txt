@@ -681,3 +681,64 @@ PROGRESS HARIAN
 3. PUSH : Pembagian Strategi dalam Warding  (Johanes Novenus Demak)
 4. PUSH : Penambahan Best Friends : Disabler(Kevin Griffinsu)
 5. PUSH : Laporan Burndown Chart, Log Book Hari ke 11. (Javentira Lienata)
+
+=====
+DAY 3
+=====
+
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Lanjut mengembangkan penjelasan aturan bermain dota 2.
+
+Apa yang dikerjakan Hari ini?   
+- Finishing penjelasan aturan bermain dota 2
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Pembagian Strategi dalam Warding
+Apa yang dikerjakan Hari ini?   
+- Penjelasan akhir strategi warding
+
+Ada masalah dalam pengerjaan tugas?
+- No problem.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Penambahan Best Friends : Disabler
+
+Apa yang dikerjakan Hari ini?   
+- Penambahan Best Friends : Slower dan Tanker
+
+Ada masalah dalam pengerjaan tugas?
+- Lancar. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Penjelasan Inti dan Contoh Hero untuk Role : Durable
+
+Apa yang dikerjakan Hari ini?   
+- Penjelasan Inti dan Contoh Hero untuk Role : Nuker.
+
+Ada masalah dalam pengerjaan tugas?
+- No Problem.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Penjelasan aturan bermain dota 2. (Javentira Lienata)
+2. PUSH : Penjelasan akhir strategi warding (Johanes Novenus Demak)
+3. PUSH : Penjelasan Inti dan Contoh Hero untuk Role : Nuker.  (William Limianto)
+4. PUSH : Penambahan Best Friends : Slower dan Tanker(Kevin Griffinsu)
+5. PUSH : Laporan Burndown Chart, Log Book Hari ke 12. (Javentira Lienata)
