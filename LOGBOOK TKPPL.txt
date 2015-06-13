@@ -806,4 +806,5 @@ PROGRESS HARIAN
 3. PUSH : Penambahan untuk Penjelasan Lokasi Ideal untuk Warding.  (Johanes Novenus Demak)
 4. PUSH : Penambahan untuk Hero Guide Snipner : Worst Enemies khususnya Trackers. (Kevin Griffinsu)
 5. PUSH : Revisi Bahasa untuk Hero Guide Snipner : Worst Enemies khususnya Trackers. (Kevin Griffinsu)
-5. PUSH : Laporan Burndown Chart, Log Book Hari ke 13. (William Limianto)
+6. PUSH : Laporan Burndown Chart, Log Book Hari ke 13. (William Limianto)
+7. PUSH : Revisi Laporan Burndown Chart, Log Book Hari ke 13. (William Limianto)
