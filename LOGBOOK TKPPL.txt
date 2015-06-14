@@ -758,7 +758,7 @@ Kemarin Mengerjakan Apa ?
 - Finishing penjelasan aturan bermain dota 2.
 
 Apa yang dikerjakan Hari ini?   
-- Pengembangan untuk Penjelasan secara Umum : Manfaat dibalik Dota2.
+- Pengembangan untuk Penjelasan secara Umum : Manfaat bermain Dota2.
 
 Ada masalah dalam pengerjaan tugas?
 - Tidak.
@@ -801,10 +801,72 @@ Ada masalah dalam pengerjaan tugas?
 PROGRESS HARIAN 
 ===============
 
-1. PUSH : Penambahan untuk Penjelasan secara Umum : Manfaat dibalik Dota2. (Javentira Lienata)
+1. PUSH : Penambahan untuk Penjelasan secara Umum : Manfaat bermain Dota2. (Javentira Lienata)
 2. PUSH : Penambahan untuk Penjelasan Inti dan Contoh Hero untuk Role : Pusher. (William Limianto)
 3. PUSH : Penambahan untuk Penjelasan Lokasi Ideal untuk Warding.  (Johanes Novenus Demak)
 4. PUSH : Penambahan untuk Hero Guide Snipner : Worst Enemies khususnya Trackers. (Kevin Griffinsu)
 5. PUSH : Revisi Bahasa untuk Hero Guide Snipner : Worst Enemies khususnya Trackers. (Kevin Griffinsu)
 6. PUSH : Laporan Burndown Chart, Log Book Hari ke 13. (William Limianto)
 7. PUSH : Revisi Laporan Burndown Chart, Log Book Hari ke 13. (William Limianto)
+
+=====
+DAY 2
+=====
+===================
+DAILY SCRUM MEETING
+===================
+Javentira Lienata :
+Kemarin Mengerjakan Apa ?   
+- Pengembangan untuk Penjelasan secara Umum : Manfaat bermain Dota2.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Penjelasan secara Umum : Manfaat bermain Dota2 hingga selesai dan Final Checking.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak Ada.
+
+
+Johanes Novenus Demak : 
+Kemarin Mengerjakan Apa ?   
+- Penambahan Penjelasan Lokasi Ideal untuk Warding.
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan Penjelasan Lokasi Ideal untuk Warding hingga selesai dan Final Checking. 
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak.
+
+
+
+Kevin Griffinsu : 
+Kemarin Mengerjakan Apa ?   
+- Penambahan untuk Hero Guide Snipner : Worst Enemies khususnya Trackers.
+
+Apa yang dikerjakan Hari ini?   
+- Pengembangan Lanjutan untuk Hero Guide Snipner : Worst Enemies hingga selesai dan Final Checking.
+
+Ada masalah dalam pengerjaan tugas?
+- Tidak ada masalah. 
+
+
+
+William Limianto :
+Kemarin Mengerjakan Apa ?   
+- Penjelasan Inti dan Contoh Hero untuk Role : Pusher.
+
+Apa yang dikerjakan Hari ini?   
+- Penjelasan Inti dan Contoh Hero untuk Role : Escape dan Final Checking.
+
+Ada masalah dalam pengerjaan tugas?
+- No problemo.
+
+===============
+PROGRESS HARIAN 
+===============
+
+1. PUSH : Pengembangan hingga selesai untuk Penjelasan Lokasi Ideal untuk Warding.  (Johanes Novenus Demak)
+2. PUSH : Penambahan untuk Penjelasan Inti dan Contoh Hero untuk Role : Escape. (William Limianto)
+3. PUSH : Revisi Permasalahan Font dan Ukuran Gambar pada semua subtopik Warding.  (Johanes Novenus Demak)
+4. PUSH : Revisi Permasalahan Typo yang ada di beberapa subtopik Warding.  (Johanes Novenus Demak)
+5. PUSH : Pengembangan hingga selesai Penjelasan secara Umum : Manfaat bermain Dota2 dan Update CSS Tampilan Bespoke sesuai dengan kesepakatan Tim. (Javentira Lienata) 
+6. PUSH : Pengembangan hingga selesai untuk Hero Guide Snipner : Worst Enemies. (Kevin Griffinsu)
+7. PUSH : Laporan Burndown Chart, Log Book, dan Backlog Hari ke 14. (William Limianto)
