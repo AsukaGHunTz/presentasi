@@ -91,7 +91,7 @@ article#presentation.bespoke-parent {
   margin-top: -300px;
   left: 50%;
   margin-left: -50%;
-  background: #303030;
+  background: url("../images/bg.jpg");
   padding: 40px;
   -webkit-border-radius: 0;
   border-radius: 0;
@@ -232,7 +232,7 @@ ol li.bespoke-bullet {
 }
 .emphatic,
 .emphatic .bespoke-slide {
-  background: #303030;
+  background: url("../images/bg.jpg");
 }
 code {
   display: block;
@@ -246,9 +246,10 @@ code.inline {
   padding: 0 !important;
 }
 body {
-  background: #303030;
+  background: url("../images/bg.jpg");
   color: #cf3;
-  font-family: 'Open Sans', sans-serif;
+  font-family: lato, 'segoe ui light', calibri, 'helvetica' !important;
+  -webkit-font-smoothing: antialiased;
 }
 blockquote {
   font-style: italic;
@@ -267,17 +268,23 @@ h1 {
   line-height: 82px;
   letter-spacing: -2px;
   margin-bottom: 16px;
+  font-family: lato, 'segoe ui light', calibri, 'helvetica' !important;
+  -webkit-font-smoothing: antialiased;
 }
 h2 {
   font-size: 42px;
   letter-spacing: -1px;
   margin-bottom: 8px;
+  font-family: lato, 'segoe ui light', calibri, 'helvetica' !important;
+  -webkit-font-smoothing: antialiased;
 }
 h3 {
   font-size: 24px;
   font-weight: normal;
   margin-bottom: 24px;
   color: #cf3;
+  font-family: lato, 'segoe ui light', calibri, 'helvetica' !important;
+  -webkit-font-smoothing: antialiased;
 }
 hr {
   visibility: hidden;
